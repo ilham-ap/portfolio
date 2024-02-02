@@ -2,6 +2,8 @@
 <a href="https://live-vision-pvvv.onrender.com/">https://live-vision-pvvv.onrender.com/</a><br/>
 <a href="https://huggingface.co/spaces/ilhamap/live-vision">https://huggingface.co/spaces/ilhamap/live-vision</a><br/>
 <a href="https://ilhamap-live-vision.hf.space">https://ilhamap-live-vision.hf.space</a><br/>
+## Object Detection
+<a href="https://github.com/ilham-ap/object-detection">https://github.com/ilham-ap/object-detection</a><br/>
 ## Rotten Detection
 <a href="https://ilham-ap.github.io/fruit-rotten-detection">https://ilham-ap.github.io/fruit-rotten-detection</a><br/>
 ## Google gemini chat bot AI
